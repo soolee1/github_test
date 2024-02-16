@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github_test.git/static/js/main.c8b7921d.js",
-    "index.html": "/github_test.git/index.html",
-    "main.c8b7921d.js.map": "/github_test.git/static/js/main.c8b7921d.js.map"
+    "main.js": "/github_test/static/js/main.c8b7921d.js",
+    "index.html": "/github_test/index.html",
+    "main.c8b7921d.js.map": "/github_test/static/js/main.c8b7921d.js.map"
   },
   "entrypoints": [
     "static/js/main.c8b7921d.js"
